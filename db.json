@@ -1,6 +1,29 @@
 [
     {
-        "id": 1,
-        "name":"Iqbal"
+        "id":5035,
+        "location_type":"union",
+        "name":"Muzafarpur",
+        "name_bn":"\u09ae\u09cb\u099c\u09be\u09ab\u09b0\u09aa\u09c1\u09b0",
+        "url":"muzafarpurup.netrokona.gov.bd",
+        "shipping_cost":150,
+        "display_name":" Muzafarpur, Kendua, Netrokona, Mymensingh,bangladesh"
+    },
+    {
+        "id":5037,
+        "location_type":"union",
+        "name":"Shormushia",
+        "name_bn":"\u09b8\u09cd\u09ac\u09b0\u09ae\u09c1\u09b6\u09bf\u09af\u09bc\u09be",
+        "url":"shormushiaup.netrokona.gov.bd",
+        "shipping_cost":150,
+        "display_name":" Shormushia, Atpara, Netrokona, Mymensingh,bangladesh"
+    },
+    {
+        "id":5037,
+        "location_type":"union",
+        "name":"Shormushia",
+        "name_bn":"\u09b8\u09cd\u09ac\u09b0\u09ae\u09c1\u09b6\u09bf\u09af\u09bc\u09be",
+        "url":"shormushiaup.netrokona.gov.bd",
+        "shipping_cost":150,
+        "display_name":" Shormushia, Atpara, Netrokona, Mymensingh,bangladesh"
     }
 ]
